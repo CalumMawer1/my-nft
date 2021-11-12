@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Photo",
+      "value" : "Yes"
+    }, {
+      "trait_type" : "Someone Painting",
+      "value" : "A guy"
+    } ],
+    "description" : "A random Photo.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmY8iReNXNDXwYi9Vs9v1riSuhGmvbZNVrdr6k6nSsAkLd",
+    "name" : "Random Photo"
+}
